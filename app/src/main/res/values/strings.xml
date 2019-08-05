@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Menu Simple</string>
+    <string name="menu_other_item">Other item</string>
+    <string name="menu_settings_item">Settings item</string>
+</resources>
